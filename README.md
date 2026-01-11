@@ -1,10 +1,10 @@
 # Design and Implementation of a Data Warehouse for an E-Commerce Marketplace
 
-**Student:** Farid Ahmad Omar (ID: Q1109076)  
+**Student:** Farid Ahmad Omar  
 **Module:** Enterprise Data Warehouses and Database Management Systems  
 **Lecturer:** Dr. Roman Bhuiyan  
 **Institution:** Berlin School of Business and Innovation (BSBI), in partnership with University for the Creative Arts (UCA), UK  
-**Submission Date:** 02/01/2026  
+
 
 ---
 
